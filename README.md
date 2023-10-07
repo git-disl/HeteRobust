@@ -1,4 +1,4 @@
-# Exploring Model Learning Heterogeneity for Boosting Ensemble Robust_ness
+# Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness
 
 HeteRobust: Exploring Model Learning **Hete**rogeneity for Boosting Ensemble **Robust**ness
 
