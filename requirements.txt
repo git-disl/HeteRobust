@@ -1,0 +1,19 @@
+# for running FasterRNN, please create another Python environment:
+# replace the following packages:
+#   mxnet-cu110
+#   gluoncv
+# with
+#   torch
+#   torchvision
+tensorflow-gpu==1.15.4
+keras==2.2.4
+Pillow>=8.1.1
+cupy-cuda110==9.4.0
+mxnet-cu110
+gluoncv
+numpy
+tqdm
+matplotlib
+scikit-image
+easydict
+tensorboardX

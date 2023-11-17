@@ -19,7 +19,6 @@ If you find this work useful in your research, please cite the following papers:
 }
 ```
 
-The code will be released soon.
 
 This project is developed based on the following resources:
 
